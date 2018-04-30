@@ -1,0 +1,11 @@
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\bin\Release\netcoreapp2.0\FinalAssignment7.deps.json
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\bin\Release\netcoreapp2.0\FinalAssignment7.runtimeconfig.json
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\bin\Release\netcoreapp2.0\FinalAssignment7.runtimeconfig.dev.json
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\bin\Release\netcoreapp2.0\FinalAssignment7.dll
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\bin\Release\netcoreapp2.0\FinalAssignment7.pdb
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.AssemblyInfo.cs
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.dll
+C:\Users\charl\Desktop\LastChance\FinalAssignment7\FinalAssignment7\obj\Release\netcoreapp2.0\FinalAssignment7.pdb
